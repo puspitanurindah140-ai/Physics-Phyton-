@@ -1,4 +1,4 @@
-# **About the Case**
+# **About the Project**
 
 ---
 
