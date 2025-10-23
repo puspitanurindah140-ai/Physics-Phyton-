@@ -15,3 +15,21 @@ The topics covered include:
 - Differential Equations
 
 Through these projects, I learned how theoretical concepts in physics and mathematics can be transformed into efficient and practical computational solutions.
+
+---
+## **Indonesian Version**
+---
+
+Repositori ini berisi kumpulan proyek komputasi numerik yang saya selesaikan selama studi sarjana saya.
+Tujuan utama proyek-proyek ini adalah untuk mengimplementasikan berbagai konsep dan rumus fisika dan matematika melalui pemrograman Python di VS Code.
+
+Topik yang dibahas meliputi:
+
+- Pemasangan Kurva
+- Integrasi dan Diferensiasi Numerik
+- Interpolasi Data
+- Penyelesaian Sistem Linear menggunakan Matriks
+- Metode Pencarian Akar
+- Persamaan Diferensial
+
+Melalui proyek-proyek ini, saya belajar bagaimana konsep-konsep teoretis dalam fisika dan matematika dapat diubah menjadi solusi komputasi yang efisien dan praktis.
