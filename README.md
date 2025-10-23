@@ -1,4 +1,5 @@
-##**About the Case**
+###About the Case
+---
 
 This repository contains a collection of numerical computation projects I completed during my undergraduate studies. 
 The main objective of these projects is to implement various physics and mathematical concepts and formulas through Python programming in VS Code.
